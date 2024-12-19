@@ -1,0 +1,6 @@
+*.class
+/.metadata/
+/bin/
+/CodigoFuente/bin/
+/CodigoFuente/.metadata/
+*.xml
