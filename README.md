@@ -1,3 +1,5 @@
+# README.txt
+
 ## Super Mario Bros - University Project  
 
 ### Overview  
@@ -36,6 +38,9 @@ The final product is a playable game featuring two distinct modes:
 - **Bugs with Lakitu**: Some bugs caused by Lakitu have been identified but have not yet been resolved due to time constraints.  
 - **Background Contrast Issue**: The final background in the game has poor contrast with the *Buzzy Beetle* enemies, making them harder to see.  
 
+### How to Run  
+To run the game, you need to execute the **Launcher** class located within the `launcher` package.  
+
 ### How to Play  
 1. Start the game and navigate the menu using the keys specified above.  
 2. Select a game mode and begin playing.  
@@ -43,8 +48,14 @@ The final product is a playable game featuring two distinct modes:
 4. When all lives are lost, enter your name for the ranking (max 4 characters).  
 5. Decide whether to play again or exit.  
 
-### Team Contributions  
-This project was completed collaboratively by a team of five university students. Each team member contributed to different aspects, including UML modeling, coding, and gameplay design.  
+### License  
+This project is licensed under the **MIT License**. You are free to modify, distribute, and use the code as long as you include a copy of this license in any project based on it.  
+
+### Contributors  
+This project was developed by a team of university students. Due to privacy considerations, the names of the contributors are kept anonymous.  
+
+### Pull Requests  
+I am open to receiving pull requests for improvements, especially in areas such as bug fixes or adjustments to the functionality of enemies, background contrast issues, and Lakitu-related bugs. Please feel free to suggest changes or enhancements to improve the game!  
 
 ### Closing Remarks  
 We hope you enjoy this reimagined version of *Super Mario Bros* with its unique blend of classic and DOOM-inspired gameplay. While there are known issues, we believe the game offers an engaging and enjoyable experience. Feedback is welcome as we continue refining our skills and projects!  
